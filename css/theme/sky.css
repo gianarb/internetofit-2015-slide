@@ -13,7 +13,7 @@
  *********************************************/
 body {
   background-color: #86D7E0;
-  background-image: url("img/back.png");
+  background-image: url("../../img/back.png");
   background-repeat: no-repeat;
   background-position: bottom;
 }
