@@ -1,5 +1,6 @@
 .DS_Store
 .svn
+bower_components
 log/*.log
 tmp/**
 node_modules/

@@ -1,0 +1,6 @@
+{
+  "name": "iot",
+  "dependencies": {
+    "corley-presenter": "*"
+  }
+}
